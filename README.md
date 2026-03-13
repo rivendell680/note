@@ -33,3 +33,9 @@ socks5 192.168.179.1 1080
 ```
 sudo apt install libedit-dev
 ```
+
+### vscode
+```
+deb包
+dpkg -i code_XXXXX.deb
+```
