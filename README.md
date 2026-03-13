@@ -15,6 +15,7 @@ Asia->Shanghai
 ### 中文
 ```
 apt install xfonts-intl-chinese
+apt install fonts-wqy-microhei
 apt install ttf-wqy-microhei
 ```
 
